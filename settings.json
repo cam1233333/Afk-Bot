@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "STAFF",
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "waffl3.aternos.me",
     "port": 25565,
     "version": "1.19.3"
   },
